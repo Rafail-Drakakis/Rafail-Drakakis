@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I’m a Computer Science student at the University of Crete (2022–2026) and a Software Developer at the Foundation for Research and Technology – Hellas (Signal Processing Laboratory) since April 2024. I enjoy creating efficient software solutions and teaching programming concepts.
+I’m a Computer Science student at the University of Crete (2022–2026) and a Software Developer at the Foundation for Research and Technology (Signal Processing Laboratory) since April 2024. I enjoy creating efficient software solutions and teaching programming concepts.
 
 ## 🔬 Research & Experience
 
