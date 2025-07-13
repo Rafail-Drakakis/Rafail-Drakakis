@@ -1,7 +1,5 @@
 # Hi, I'm Rafail Drakakis 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/Rafail-Drakakis?label=Followers&style=social)](https://github.com/Rafail-Drakakis?tab=followers) [![GitHub Stars](https://img.shields.io/github/stars/Rafail-Drakakis?style=social)](https://github.com/Rafail-Drakakis?tab=repositories) [![Institution](https://img.shields.io/badge/FORTH-Research-blue)](https://www.forth.gr/)
-
 ## 🎓 About Me
 
 I’m a Computer Science student at the University of Crete (2022–2026) and a Software Developer at the Foundation for Research and Technology – Hellas (Signal Processing Laboratory) since April 2024. I enjoy creating efficient software solutions and teaching programming concepts.
