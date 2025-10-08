@@ -2,15 +2,14 @@
 
 ## 🎓 About Me
 
-I’m a Computer Science student at the University of Crete (2022–2026) and a Software Developer at the Foundation for Research and Technology (Signal Processing Laboratory) since April 2024. I enjoy creating efficient software solutions and teaching programming concepts.
+I’m a Computer Science student at the University of Crete (2022–2026) and a Software Developer at the Foundation for Research and Technology (Signal Processing Laboratory) since April 2024. I enjoy creating efficient software solutions and teaching programming.
 
 ## 🔬 Research & Experience
 
 - **Software Developer @ FORTH-SPL** (Apr 2024 – Present)
-  - Built an automated satellite-image pipeline with Sentinel Hub APIs and multithreading for optimized geospatial data retrieval.
-  - Developed a Flask web application for real-time image uploads, processing into GIF/ZIP outputs, and OpenCV-based quality filtering.
+  - Built end-to-end satellite data pipelines and geospatial automation tools, including a multithreaded dataset builder for MEDIC/ECCV corpora, an EfficientNet-powered Flask service for real-time disaster prediction and change mapping, and automated Sentinel-2 retrieval workflows for analyst-ready deliverables.
 - **Python Programming Instructor @ Algorithmics Greece** (Oct 2024 – Present)
-  - Teaching the **Python** to student groups (ages 12–16), emphasizing algorithmic thinking through hands-on projects.
+  - Teaching **Python** to student groups (ages 12–16), emphasizing algorithmic thinking through hands-on projects.
 - **Teaching Assistant @ University of Crete** (Oct 2024 – Present)
   - Supported CS108, CS109, CS208, and CS209, managing course materials, platforms, and providing feedback on assignments.
 - **Python Tutor (Private)** (Jun 2024 – Aug 2024)
@@ -18,9 +17,9 @@ I’m a Computer Science student at the University of Crete (2022–2026) and a 
 
 ## 💻 Skills
 
-- **Languages:** Python, C, Shell, LaTeX
-- **Frameworks & Tools:** Flask, Git, OpenCV, TensorFlow
-- **Expertise:** Satellite Image Processing, Automation, Compiler Design, Sentiment Analysis
+- **Languages:** Python, C, C++, Java, Shell, LaTeX
+- **Frameworks & Tools:** Git, OpenCV, TensorFlow
+- **Expertise:** Image Processing, Automation, Sentiment Analysis
 
 ## 📂 Featured Projects
 
