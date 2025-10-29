@@ -26,7 +26,7 @@ I’m a Computer Science student at the University of Crete (2022–2026) and a 
 - **[Reviews-classifier](https://github.com/Rafail-Drakakis/Reviews-classifier)** – Sentiment analysis toolkit with TeX-based report.
 - **[Event-management-system](https://github.com/Rafail-Drakakis/Event-management-system)** – Full-stack booking platform built with Python & Flask.
 - **[Alpha-compiler](https://github.com/Rafail-Drakakis/Alpha-compiler)** – Educational compiler in C featuring lexer, parser, and code generation.
-- **[Useful-scripts](https://github.com/Rafail-Drakakis/Useful-scripts)** – Shell and PowerShell scripts for system setup and validation.
+- **[Useful-scripts](https://github.com/Rafail-Drakakis/Useful-scripts)** – Shell scripts for system setup and validation.
 - **[Media-downloader](https://github.com/Rafail-Drakakis/Media-downloader)** – GUI application for batch multimedia downloads (yt_dlp & PyQt5).
 
 ## 📫 Get in Touch
