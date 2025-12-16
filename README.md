@@ -1,36 +1,51 @@
-# Hi, I'm Rafail Drakakis 👋
+# Rafail Drakakis
 
-## 🎓 About Me
+Computer Science student (University of Crete, 2022–2026) and Software Developer at FORTH (Signal Processing Laboratory). I build practical systems—often around **automation**, **computer vision**, and **geospatial/satellite-data workflows**—and I also teach programming.
 
-I’m a Computer Science student at the University of Crete (2022–2026) and a Software Developer at the Foundation for Research and Technology (Signal Processing Laboratory) since April 2024. I enjoy creating efficient software solutions and teaching programming.
+- **Email**: `rafaildrakakis123@gmail.com`
+- **LinkedIn**: `https://www.linkedin.com/in/rafail-drakakis-07926b19b/`
 
-## 🔬 Research & Experience
+## About
 
-- **Software Developer @ FORTH-SPL** (April 2024 – Present)
-  - Built end-to-end satellite data pipelines and geospatial automation tools, including a multithreaded dataset builder for MEDIC/ECCV corpora, an EfficientNet-powered Flask service for real-time disaster prediction and change mapping, and automated Sentinel-2 retrieval workflows for analyst-ready deliverables.
-- **Python Programming Instructor @ Algorithmics Greece** (November 2024 – Present)
-  - Teaching **Python** to student groups (ages 12–16), emphasizing algorithmic thinking through hands-on projects.
-- **Teaching Assistant @ University of Crete** (October 2024 – June 2024)
-  - Supported CS108, CS109, CS208, and CS209, managing course materials, platforms, and providing feedback on assignments.
-- **Python Tutor (Private)** (June 2024 – August 2024)
-  - Delivered personalized Python lessons to students (ages 13–15), introducing programming fundamentals and practical exercises.
+- **Current focus**: data/ML pipelines, computer vision, geospatial automation, clean and maintainable tooling.
+- **I enjoy**: turning messy real-world inputs into reliable software, and explaining concepts clearly while teaching.
 
-## 💻 Skills
+## Experience
 
-- **Languages:** Python, C, C++, Java, Shell, LaTeX
-- **Frameworks & Tools:** Git, OpenCV, TensorFlow
-- **Expertise:** Image Processing, Automation, Sentiment Analysis
+- **Software Developer — FORTH-SPL** (Apr 2024 – Present)  
+  Built end-to-end satellite-data pipelines and geospatial automation tools, including:
+  - A **multithreaded dataset builder** for MEDIC/ECCV corpora
+  - An **EfficientNet + Flask** service for real-time disaster prediction & change mapping
+  - Automated **Sentinel‑2** retrieval workflows for analyst-ready deliverables
 
-## 📂 Featured Projects
+- **Python Programming Instructor — Algorithmics Greece** (Nov 2024 – Present)  
+  Teaching Python to student groups (ages 12–16), emphasizing algorithmic thinking through hands-on projects.
 
-- **[Reviews-classifier](https://github.com/Rafail-Drakakis/Reviews-classifier)** – Sentiment analysis toolkit with TeX-based report.
-- **[Event-management-system](https://github.com/Rafail-Drakakis/Event-management-system)** – Full-stack booking platform built with Python & Flask.
-- **[Alpha-compiler](https://github.com/Rafail-Drakakis/Alpha-compiler)** – Educational compiler in C featuring lexer, parser, and code generation.
-- **[Useful-scripts](https://github.com/Rafail-Drakakis/Useful-scripts)** – Shell scripts for system setup and validation.
-- **[Media-downloader](https://github.com/Rafail-Drakakis/Media-downloader)** – GUI application for batch multimedia downloads (yt_dlp & PyQt5).
+- **Teaching Assistant — University of Crete** (Oct 2023 – Jun 2024)  
+  Supported CS108, CS109, CS208, and CS209: course platforms/materials, assignment feedback, and student support.
 
-## 📫 Get in Touch
+- **Private Python Tutor** (Jun 2024 – Aug 2024)  
+  1:1 lessons for students (ages 13–15) covering fundamentals and practical exercises.
 
-- ✉️ rafaildrakakis123@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rafail-drakakis-07926b19b/)
-- 📞 +30 6970667473
+## Skills
+
+- **Languages**: Python, C, C++, Java, Shell, LaTeX  
+- **Frameworks / tools**: Git, OpenCV, TensorFlow  
+- **Topics**: image processing, automation, sentiment analysis
+
+## Selected repositories
+
+- **Reviews-classifier** — sentiment analysis toolkit + TeX report  
+  `https://github.com/Rafail-Drakakis/Reviews-classifier`
+- **Event-management-system** — full-stack booking platform (Python/Flask)  
+  `https://github.com/Rafail-Drakakis/Event-management-system`
+- **Alpha-compiler** — educational compiler in C (lexer, parser, codegen)  
+  `https://github.com/Rafail-Drakakis/Alpha-compiler`
+- **Useful-scripts** — shell scripts for system setup/validation  
+  `https://github.com/Rafail-Drakakis/Useful-scripts`
+- **Media-downloader** — GUI for batch downloads (yt_dlp, PyQt5)  
+  `https://github.com/Rafail-Drakakis/Media-downloader`
+
+## Notes
+
+If you’re browsing from a specific repo, check its own README for setup/usage details—this page is primarily an overview and index of my work.
