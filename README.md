@@ -91,18 +91,6 @@ GUI application for batch multimedia downloads using yt_dlp & PyQt5. Features pr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafail-Drakakis&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafail-Drakakis&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Get in Touch
 
 <div align="center">
