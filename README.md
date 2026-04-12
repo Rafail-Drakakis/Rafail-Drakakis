@@ -99,8 +99,6 @@ GUI application for batch multimedia downloads using yt_dlp & PyQt5. Features pr
 
 🔗 **LinkedIn:** [linkedin.com/in/rafail-drakakis-07926b19b/](https://www.linkedin.com/in/rafail-drakakis-07926b19b/)
 
-📱 **Phone:** +30 6970667473
-
 </div>
 
 ---
