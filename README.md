@@ -25,7 +25,7 @@ I'm a Computer Science student at the **University of Crete** (2022–2026) and 
 ## 🔬 Professional Experience
 
 ### 💼 Software Developer @ FORTH-SPL
-**April 2024 – Present**
+**April 2024 – September 2026**
 - Built **end-to-end satellite data pipelines** and **geospatial automation tools**
 - Developed multithreaded dataset builder for **MEDIC/ECCV corpora**
 - Created **EfficientNet-powered Flask service** for real-time disaster prediction and change mapping
