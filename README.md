@@ -32,10 +32,10 @@ I'm a Computer Science student at the **University of Crete** (2022–2026) and 
 - Automated **Sentinel-2 retrieval workflows** for analyst-ready deliverables
 
 ### 👨‍🏫 Python Programming Instructor @ Algorithmics Greece
-**November 2024 – Present**
-- Teaching **Python** to student groups (ages 12–16)
-- Emphasizing **algorithmic thinking** through hands-on projects
-- Developing custom curriculum and interactive learning materials
+**November 2024 – June 2026**
+- Taught **Python** to student groups (ages 12–16)
+- Emphasized **algorithmic thinking** through hands-on projects
+- Developed custom curriculum and interactive learning materials
 
 ### 🎓 Teaching Assistant @ University of Crete
 **October 2023 – June 2024**
